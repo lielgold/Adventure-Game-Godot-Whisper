@@ -21,6 +21,8 @@ Your commands are transcribed and used to control gameplay.
 
 	🎤 Voice-based input – Use natural sentences to interact with the world.
 
+	📖 Dynamic dictionary – As you discover new words, they’re added to an in-game dictionary along with their translations.
+
 ![Screenshot1](assets/screenshots/screenshot.png?raw=true "Title")
 
 ⚙️ Requirements
